@@ -1,3 +1,4 @@
+![logo](https://github.com/om-1513/om-1513/blob/main/Electronics%20and%20Communication%20engineer.jpg)
 <h1 align="center">Hi 👋, I'm Om Prakash</h1>
 <h3 align="center">A passionate machine learner from India.</h3>
 <img align="right"alt="coding"width="400"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlycDBnaGdqaG4weXpoY2hzNHRyYWNhM3M0bmk5czZ4eGloZTA5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
